@@ -3,7 +3,7 @@ import time
 import random
 
 WIDTH, HEIGHT = 500, 500
-COLORS = ['red', 'green', 'blue', 'orange', 'peridot', 'black', 'purple', 'pink', 'brown', 'cyan']
+COLORS = ['red', 'green', 'blue', 'orange', 'magenta', 'black', 'purple', 'pink', 'brown', 'cyan']
 
 def get_number_of_racers():
     racers = 0
